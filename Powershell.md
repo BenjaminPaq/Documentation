@@ -1,0 +1,11 @@
+# Powershell
+- python --verson # Returns Latest Version of Python
+- python # Opens Python Terminal in Powershell
+- deactivate # Deactivates Active Virtual Env
+- python <file.py> # Executes Python Program
+- pip install <package> # Installs Package Name
+- pip freeze # Lists All Installed Packages (Gloabl / Virtual Env)
+- pip uninstall <package> # Uninstalls Package Name
+- cd <folder_name> # Enters Folder In Directory
+- cd.. # Enters Folder One Path Behind Current Folder
+- mkdir <folder_name> # Creates a New Folder in Directory

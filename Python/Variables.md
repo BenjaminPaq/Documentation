@@ -1,0 +1,21 @@
+# Variables
+- Variables are used to store information for one or more uses throughout a script.
+- Creating variables avoids typing the same information more than once.
+- When called within a script, Python retrieves the value stored in the variable
+- Variables are not static and can be updated using the same syntax used to create them
+	- Calculations or tasks that use a variable will return updated outputs based on the change
+- Python will infer a variables data type based on the value it is assigned
+- Each variable contains three components:
+	- Case-sensitive name
+	- Equal (=) sign
+	- Value
+- Variables assigned numeric or float values can be used to perform calculations
+- Variables retain the datatype it is assigned to and behaves in accordance
+- Variable names can consist of letters, numbers and underscores.
+- When creating variable names with two or more words, an underscore should be used
+	- Creating a variable with a space instead of underscores will return a syntax error
+- Variables cannot be started with numbers
+- When naming variables, there are three case conventions commonly practiced
+	- Snake Case: Uses underscores between words
+	- Pascal Case: Capitalizes each word to avoid cases and underscores
+	- Camel Case: Capitalize each word with the exception of the first
